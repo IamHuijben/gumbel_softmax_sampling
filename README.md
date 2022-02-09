@@ -4,9 +4,9 @@ This repository contains the file _notebook_fig4.ipynb_, which is a jupyter note
 [A Review of the Gumbel-max Trick and its Extensions for Discrete Stochasticity in Machine Learning](https://arxiv.org/abs/2110.01515).
 
 This notebook can be used to gain insights in the relations between Gumbel-max and Gumbel-softmax samples, generated from unnormalized logits or normalized probabilities.
-
 It has been tested on a Windows system in an anaconda environment with Python 3.6.7, numpy 1.17.3 and scipy 1.5.4.
 
+Along with this notebook, you might find the following interactive demo useful as well: https://iamhuijben.github.io/gumbel_softmax_sampling.html
 
 ### Citation
 
