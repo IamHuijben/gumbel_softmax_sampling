@@ -10,7 +10,7 @@ Along with this notebook, you might find the following interactive demo useful a
 
 ### Citation
 
-Please cite the following paper if you find this notebook and/or Figure 4 from the paper useful in your own work. 
+Please cite the following paper if you find these demos useful in your own work. 
 
 ```
 @inproceedings{
