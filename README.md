@@ -13,11 +13,12 @@ Along with this notebook, you might find the following interactive demo useful a
 Please cite the following paper if you find these demos useful in your own work. 
 
 ```
-@inproceedings{
-huijben2021,
-title={A Review of the Gumbel-max Trick and its Extensions for Discrete Stochasticity in Machine Learning},
-author={Iris A.M. Huijben and Wouter Kool and Max B. Paulus and Ruud J.G. van Sloun},
-booktitle={arxiv},
-year={2021},
+@article{
+    huijben2022,
+    author={Iris A.M. Huijben and Wouter Kool and Max B. Paulus and Ruud J.G. van Sloun},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    title={A Review of the Gumbel-max Trick and its Extensions for Discrete Stochasticity in Machine Learning},
+    year={2022},
+    doi={10.1109/TPAMI.2022.3157042},
 }
 ```
